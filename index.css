@@ -6,6 +6,6 @@ body {
 }
 
 .container {
-	display: flexbox; /* trying old flexbox syntax */
+	display: box; /* trying old flexbox syntax */
 	flex-wrap: wrap;
 }
